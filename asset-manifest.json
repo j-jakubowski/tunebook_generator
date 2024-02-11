@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/tunebook_generator/static/css/main.f855e6bc.css",
-    "main.js": "/tunebook_generator/static/js/main.568e672f.js",
+    "main.js": "/tunebook_generator/static/js/main.6855b4f4.js",
     "static/js/592.918a8bb2.chunk.js": "/tunebook_generator/static/js/592.918a8bb2.chunk.js",
     "static/media/logo.svg": "/tunebook_generator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/tunebook_generator/index.html",
     "main.f855e6bc.css.map": "/tunebook_generator/static/css/main.f855e6bc.css.map",
-    "main.568e672f.js.map": "/tunebook_generator/static/js/main.568e672f.js.map",
+    "main.6855b4f4.js.map": "/tunebook_generator/static/js/main.6855b4f4.js.map",
     "592.918a8bb2.chunk.js.map": "/tunebook_generator/static/js/592.918a8bb2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.568e672f.js"
+    "static/js/main.6855b4f4.js"
   ]
 }
