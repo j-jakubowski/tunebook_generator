@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tunebook_generator/static/css/main.f855e6bc.css",
-    "main.js": "/tunebook_generator/static/js/main.6855b4f4.js",
+    "main.css": "/tunebook_generator/static/css/main.c124b6f8.css",
+    "main.js": "/tunebook_generator/static/js/main.11954c2c.js",
     "static/js/592.918a8bb2.chunk.js": "/tunebook_generator/static/js/592.918a8bb2.chunk.js",
     "static/media/logo.svg": "/tunebook_generator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/tunebook_generator/index.html",
-    "main.f855e6bc.css.map": "/tunebook_generator/static/css/main.f855e6bc.css.map",
-    "main.6855b4f4.js.map": "/tunebook_generator/static/js/main.6855b4f4.js.map",
+    "main.c124b6f8.css.map": "/tunebook_generator/static/css/main.c124b6f8.css.map",
+    "main.11954c2c.js.map": "/tunebook_generator/static/js/main.11954c2c.js.map",
     "592.918a8bb2.chunk.js.map": "/tunebook_generator/static/js/592.918a8bb2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.6855b4f4.js"
+    "static/css/main.c124b6f8.css",
+    "static/js/main.11954c2c.js"
   ]
 }
